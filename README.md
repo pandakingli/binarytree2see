@@ -6,7 +6,7 @@ For example, if you give the following input (the first number is used to determ
 给定一个前序遍历的数组，空节点使用#来表示，可以可视化显示二叉树。
 > 30
 
-> 1 2 4 # # 5 12 # 13 # 14 15 # # # # 3 6 8 10 # # 11 # # 9 # # 7 # #
+> 8 9 -3 14 # # 11 # # -10 15 # # 14 # # 9 10 -9 # # 11 # # -11 13 # # 3 # #
 
  result:
 输出：
